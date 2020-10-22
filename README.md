@@ -22,6 +22,10 @@ Due to a non-native/embedded integration between GraphQL + Passport, there are s
 
 > "We need to split our FrontEnd into two different pieces. One that doesn't use GraphQL, and one that does. "
 
+# Mutations
+
+![image](https://user-images.githubusercontent.com/16644017/96695914-2a0e5700-13c5-11eb-81a0-5d2cc2dd7cd5.png)
+
 # Author
 
 **App Development:**  
