@@ -26,6 +26,10 @@ Due to a non-native/embedded integration between GraphQL + Passport, there are s
 
 ![image](https://user-images.githubusercontent.com/16644017/96695914-2a0e5700-13c5-11eb-81a0-5d2cc2dd7cd5.png)
 
+# Auth Flow
+
+![image](https://user-images.githubusercontent.com/16644017/97250286-f6aa4d00-1848-11eb-8b15-c01aeab04bdf.png)
+
 # Author
 
 **App Development:**  
